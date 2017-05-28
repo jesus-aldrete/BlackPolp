@@ -1,4 +1,4 @@
-# BlackPolp
+# <a href='www.BlackPolp.csta.mx'><img src='http://www.csta.mx/ima/BlackPolp_github_150.png' height='100'></a>
 
 BlackPolp es una herramienta desarrollada en C++ para el control, tratamiento y conversión del color, para el apoyo en el diseño en general.  
 
